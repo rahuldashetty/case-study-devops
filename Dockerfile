@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM hshar/webapp
 
 RUN apt update
 
